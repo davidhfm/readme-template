@@ -1,9 +1,11 @@
 # Nome do produto
-> Descrição curta sobre o que seu projeto faz.
+> Descrição curta sobre o que o projeto faz.
 
+<!--
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
+-->
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
@@ -55,15 +57,15 @@ npm test
 
 ## Meta
 
-Seu Nome – [@SeuNome](https://twitter.com/...) – SeuEmail@exemplo.com
+David HF Moura – [@davidhfmoura](https://facebook.com/davidhfmoura) – david_hfm@outlook.com
 
 Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 
-[https://github.com/yourname/github-link](https://github.com/othonalberto/)
+[https://github.com/davidhfm/github-link](https://github.com/davidhfm/)
 
-## Contributing
+## Contribuir
 
-1. Faça o _fork_ do projeto (<https://github.com/yourname/yourproject/fork>)
+1. Faça o _fork_ do projeto (<https://github.com/davidhfm/yourproject/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
 3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
 4. _Push_ (`git push origin feature/fooBar`)
@@ -74,4 +76,4 @@ Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/seunome/seuprojeto/wiki
+[wiki]: https://github.com/davidhfm/seuprojeto/wiki
